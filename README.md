@@ -1,13 +1,7 @@
 <h1 align="center">Hi  I'm Thoufeeq</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate FullStack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thoufeee" alt="thoufeee" /></a> </p>
-
-- 🔭 I’m currently working on **Electronic Workshop Connect (EWC) – A service-booking web platform built using Golang, Gin, GORM, and SQL.**
-
-- 🌱 I’m currently learning **Microservices Architecture and Data Structures & Algorithms (DSA) to build scalable, high-performance applications that can efficiently handle real-world complexity at scale**
-
-- 💬 Ask me about **Javascript,React,Redux,Golang,Gin,Sql**
 
 - 📫 How to reach me **connectthoufeeq@gmail.com**
 
