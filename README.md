@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/5e591db1ea43550ee6bac68d72d5913915baad425d066c3e9c9a3e2db7e8e65c/68747470733a2f2f616c65782d77656263646e2e73332e75732d776573742d312e616d617a6f6e6177732e636f6d2f6d656469612f75706c6f6164732f696d672f62616e6e6572732f4131582b4769746875622b42616e6e65722e676966" alt="Profile Banner" class="inline-image">
+<img src="https://art.pixilart.com/c73ffba5f0eba13.gif" alt="Profile Banner" class="inline-image">
 
 ### I'm Thoufeeq
 
