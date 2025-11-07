@@ -1,4 +1,4 @@
-# Hi 👋, I'm Thoufeeq
+### I'm Thoufeeq
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif" alt="Profile Banner" class="inline-image">
 
 ### 💻 A Passionate Full Stack Developer
@@ -8,7 +8,7 @@
 - 🔭 Currently building **scalable backend systems** using Go.  
 - 🌱 Exploring **microservices**, **cloud-native architecture**, and **DevOps practices** to level up my engineering skills.  
 - ⚙️ Passionate about writing clean, efficient, and production-ready backend code.  
-- 📫 Reach me at: **[your-email@example.com]**  
+- 📫 Reach me at: **[connectthoufeeq@gmail.com]**  
 ---
 
 ### 🛠️ Technologies & Tools I Work With
@@ -51,17 +51,15 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:connectthoufeeq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thoufeeq-muhammad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thoufeee&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Thoufeeq GitHub Stats" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=thoufeee&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thoufeee&show_icons=true&locale=en" alt="Thoufeeq GitHub Stats" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=thoufeee&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="45%" />
 </p>
