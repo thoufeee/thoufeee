@@ -61,5 +61,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thoufeee&show_icons=true&locale=en" alt="Thoufeeq GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=thoufeee&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=thoufeee&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="45%" />
 </p>
