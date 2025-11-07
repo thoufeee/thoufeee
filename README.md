@@ -1,5 +1,6 @@
+<img src="https://media4.giphy.com/headers/monstercat/LQnX59nHBsOV.gif" alt="Profile Banner" class="inline-image">
+
 ### I'm Thoufeeq
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif" alt="Profile Banner" class="inline-image">
 
 ###  A Passionate Full Stack Developer
 
