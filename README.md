@@ -1,6 +1,6 @@
 <img src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7" alt="Profile Banner" class="inline-image">
 
-### I'm Thoufeeq
+### **I'm Thoufeeq**
 
 
 ###  A Passionate Full Stack Developer
@@ -10,7 +10,7 @@
 -  Currently building **scalable backend systems** using Go.  
 -  Exploring **microservices**, **cloud-native architecture**, and **DevOps practices** to level up my engineering skills.  
 -  Passionate about writing clean, efficient, and production-ready backend code.  
--  Reach me at: **[connectthoufeeq@gmail.com]**  
+-  Reach me at: **connectthoufeeq@gmail.com**  
 ---
 
 ###  Technologies & Tools I Work With
