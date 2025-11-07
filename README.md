@@ -59,7 +59,9 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thoufeee&show_icons=true&locale=en" alt="Thoufeeq GitHub Stats" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=thoufeee&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thoufeee&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Thoufeeq GitHub Stats" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=thoufeee&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" height="180px"/>
 </p>
