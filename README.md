@@ -1,6 +1,7 @@
-<img src="https://art.pixilart.com/c73ffba5f0eba13.gif" alt="Profile Banner" class="inline-image">
+<img src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7" alt="Profile Banner" class="inline-image">
 
 ### I'm Thoufeeq
+
 
 ###  A Passionate Full Stack Developer
 
