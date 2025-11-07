@@ -19,7 +19,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="55"/><br><b>Gin</b></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="48"/><br><b>GraphQL</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48"/><br><b>HTML5</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48"/><br><b>JavaScript</b></td>
+   <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" /><br>JavaScript</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="48"/><br><b>Bootstrap</b></td>
     <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="Chart.js" width="48"/><br><b>Chart.js</b></td>
   </tr>
@@ -31,6 +31,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48"/><br><b>MySQL</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48"/><br><b>PostgreSQL</b></td>
     <td align="center"><img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" width="48"/><br><b>gRPC</b></td>
+     <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62" /><br>REST API</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48"/><br><b>Docker</b></td>
