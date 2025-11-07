@@ -7,9 +7,9 @@
 
 ###  About Me
 
--  Currently building **scalable backend systems** using Go.  
--  Exploring **microservices**, **cloud-native architecture**, and **DevOps practices** to level up my engineering skills.  
--  Passionate about writing clean, efficient, and production-ready backend code.  
+-  Currently developing **scalable and high-performance backend systems** using **Go**.  
+-  Deepening my expertise in **microservices**, **cloud-native architectures**, and **DevOps** to build robust, maintainable solutions.  
+-  Passionate about crafting **clean, efficient, and production-grade code** that powers real-world applications.
 -  Reach me at: **connectthoufeeq@gmail.com**  
 ---
 
