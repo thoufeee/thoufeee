@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7" alt="Profile Banner" class="inline-image">
+<img src="image_src.jpg" alt="Profile Banner" class="inline-image">
 
 ### **I'm Thoufeeq**
 
